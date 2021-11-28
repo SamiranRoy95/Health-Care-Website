@@ -1,0 +1,51 @@
+[
+    {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFeXlyVzA30u13f_gLip3fWIAS9EMEB2kZLw&usqp=CAU",
+        "name": " Eye Checkup",
+        "price": 500,
+        "doctor": " Dr. Hasan Sir",
+        "description":"Our Eye department is a great Department .We provide great service.we have provided so many service in eye related service. we teke extracare of our patient",
+
+        "id":1
+    },
+    {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJFq6YRnBAG4Y46DGsHqalqV9OaV1uMhRqqQ&usqp=CAU",
+        "name": " Heart Checkup",
+        "price": 1000,
+        "doctor": " Dr. Hasan Sir",
+        "description":"Our Heart department is a great Department .We provide great service.we have provided so many service in eye related service. we teke extracare of our patient",
+        "id":2
+    },
+    {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2hXzDBbudpst4DyZJ_W4FXjndPojkj3PE-Q&usqp=CAU",
+        "name": "Body Checkup",
+        "price": 500,
+        "doctor": " Dr. Hasan Sir",
+        "description":"Our Body Checkup department is a great Department .We provide great service.we have provided so many service in eye related service. we teke extracare of our patient",
+        "id":3
+    },
+    {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmbizz2qdtxgtnIdljvEejMdMZWGJi18eWyQ&usqp=CAU",
+        "name": "Blood Test",
+        "price": 500,
+        "doctor": " Dr. Hasan Sir",
+        "description":"Our Blood department is a great Department .We provide great service.we have provided so many service in eye related service. we teke extracare of our patient",
+        "id":4
+    },
+    {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZBLw5_liSUQcpTn9CrePavX9F-MNr_k4miw&usqp=CAU",
+        "name": "AltrasonuGram",
+        "price": 500,
+        "doctor": " Dr. Hasan Sir",
+        "description":"Our AltrasonuGram department is a great Department .We provide great service.we have provided so many service in eye related service. we teke extracare of our patient",
+        "id":5
+    },
+    {
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQoKbMwC7nHcUix1k71JojJBQm-G5FEbsjBqw&usqp=CAU",
+        "name": "Heart Oparation",
+        "price": 500,
+        "doctor": " Dr. Hasan Sir",
+        "description":"Our Hear Oparation department is a great Department .We provide great service.we have provided so many service in eye related service. we teke extracare of our patient",
+        "id":6
+    }
+]

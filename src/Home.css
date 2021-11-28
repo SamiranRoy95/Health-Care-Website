@@ -1,0 +1,15 @@
+.treat__wrapper{
+
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 90px;
+}
+
+.home__image{
+    width: 1000px;
+    height: 400px;
+}
+.home__image__div{
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
