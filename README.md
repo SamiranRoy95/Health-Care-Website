@@ -1,18 +1,18 @@
-This is simple React Website
-Website Name:Health Care
-This website is -- Health care related
-Description: There is  a Home page where wils show some service.
-2.There is Service page where will show some sevice of this Hospital
-3.There is about page where is written some information about Hospital
-4.There is Login page where user can do register and Login through Google Sign In and Email and Password
-5.There is a Contact page where is excuted our Hospiata Location and  a form which through any user can contact with us.
-6.Here has been setted a detail button where to do click a use can see/read detail that service
+##This is simple React Website
+##Website Name:Health Care
+##This website is -- Health care related
+##Description: There is  a Home page where wils show some service.
+##2.There is Service page where will show some sevice of this Hospital
+##3.There is about page where is written some information about Hospital
+##4.There is Login page where user can do register and Login through Google Sign In and Email and Password
+##5.There is a Contact page where is excuted our Hospiata Location and  a form which through any user can contact with us.
+##6.Here has been setted a detail button where to do click a use can see/read detail that service
 ....................................
-It is built React js,React-Router-Dom,React BootStrap,React Context API,Useparam Hooks,UseHistory Hooks,UseState,UseEffect Hooks,CSS,JavsScript,HTML,
+##It is built React js,React-Router-Dom,React BootStrap,React Context API,Useparam Hooks,UseHistory Hooks,UseState,UseEffect Hooks,CSS,JavsScript,HTML,
 .........
-It has been hosted in Netlify..
-The code has been puted in Githup private Repository.
-Live wesite Link:https://admiring-colden-7ccce4.netlify.app
+##It has been hosted in Netlify..
+##The code has been puted in Githup private Repository.
+##Live wesite Link:https://admiring-colden-7ccce4.netlify.app
 
 
 
